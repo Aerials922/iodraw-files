@@ -85,7 +85,10 @@
           <mxGeometry x="50" y="20" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="it_uPl6xz6jv3MHyXmth-51" value="&lt;span style=&quot;font-size: 12pt; font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;Query: A man gets up from the bed and puts down the book&lt;/span&gt;&lt;span style=&quot;font-size: 12pt; font-family: &amp;quot;Times New Roman&amp;quot;; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; letter-spacing: 0pt; vertical-align: baseline;&quot;&gt;.&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;arcSize=5;" vertex="1" parent="1">
-          <mxGeometry x="120" y="600" width="220" height="80" as="geometry" />
+          <mxGeometry x="120" y="590" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="it_uPl6xz6jv3MHyXmth-52" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,iVBORw0KGgoAAAANSUhEUgAAAC8AAAAvCAMAAABE+WOeAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAABsUExURQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHQi/6oAAAAkdFJOUwB/EJ/P7zBAv99QcGCPIK//CMMMfDSrTPMYZCQ4FMd0y+PreCI3wucAAAAJcEhZcwAAFxEAABcRAcom8z8AAAFySURBVEhLzZTpdoMgEEbZwQVNk+5pmy7v/44dcBQQ0ORXe8+JMPG7LOqB/Esow851cCEVdnO0EbJpsfDQhmnZYbGCcdFrY5P5mdRkEBarBDZa5n5YIloOhBiKVQwdvYLVQivcLCCtaRT8j3E9NR5uBsI5FoEBxiE4DpW+QbqDZfkWtIEL712XinkexIpc8OP3Bp4mFSwZHygIuoEL68aDEEy5uRIyQS3vqWWl57cSQhzoTfZUvWAWIY4zK4pfjBVkFua4EiMXTf7OJhYhxPu2V5U0gEIU920dL1wfnwR5fdwJN4wOqJtGv2Grnjg+9TaJ43fH6Osoky7mtCes174jJIvxvU0h2erx5PsbQroYuyes174jrOM7Qh7fFErxDaEcrwq1eEUYqvFYuPetY+xOD9CU4kFQ4TyU7PHwVIkH4fnFN4AcXo/nWnwW3sL4FI5SXY074UzePy5YARQO4GnLZbrPr+8f7E+w+gnm2bn9RxDyCwIoEQt5W6p9AAAAAElFTkSuQmCC;" vertex="1" parent="1">
+          <mxGeometry x="520" y="620" width="47" height="47" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
