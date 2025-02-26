@@ -106,6 +106,15 @@
         <mxCell id="9djl9I5novdDQvGw7uyZ-29" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;strokeWidth=0;" vertex="1" parent="1">
           <mxGeometry x="807" y="1210" width="20" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="9djl9I5novdDQvGw7uyZ-30" value="" style="endArrow=classic;html=1;rounded=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490" y="1210" as="sourcePoint" />
+            <mxPoint x="530" y="1130" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="490" y="1130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
