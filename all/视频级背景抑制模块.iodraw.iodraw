@@ -69,8 +69,8 @@
         <mxCell id="it_uPl6xz6jv3MHyXmth-45" value="Person&lt;br&gt;Window&lt;div&gt;Bed&lt;br&gt;Book&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;arcSize=5;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="720" y="379.26" width="60" height="80.5" as="geometry" />
         </mxCell>
-        <mxCell id="it_uPl6xz6jv3MHyXmth-46" value="Person&lt;br&gt;Window&lt;div&gt;Bed&lt;br&gt;Book&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;arcSize=5;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="730" y="389.26" width="60" height="80.5" as="geometry" />
+        <mxCell id="it_uPl6xz6jv3MHyXmth-46" value="Person&lt;br&gt;Plant&lt;div&gt;Book&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;arcSize=5;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="720" y="468.99" width="60" height="80.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
