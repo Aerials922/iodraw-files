@@ -88,9 +88,6 @@
             <mxPoint x="730" y="1220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9djl9I5novdDQvGw7uyZ-23" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="1220" width="20" height="20" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
