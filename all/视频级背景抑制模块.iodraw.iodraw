@@ -136,8 +136,8 @@
         <mxCell id="9djl9I5novdDQvGw7uyZ-41" value="$$F_{sup}^{V}$$&amp;nbsp;" style="text;whiteSpace=wrap;html=1;verticalAlign=middle;fontFamily=Times New Roman;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="792" y="1246" width="28" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="9djl9I5novdDQvGw7uyZ-43" value="$$F_{sup}^{V}$$&amp;nbsp;" style="text;whiteSpace=wrap;html=1;verticalAlign=middle;fontFamily=Times New Roman;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="532" y="1265" width="28" height="44" as="geometry" />
+        <mxCell id="9djl9I5novdDQvGw7uyZ-43" value="$$F_^{V}$$&amp;nbsp;" style="text;whiteSpace=wrap;html=1;verticalAlign=middle;fontFamily=Times New Roman;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="280" y="1226" width="28" height="44" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
