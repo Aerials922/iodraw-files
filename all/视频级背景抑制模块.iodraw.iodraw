@@ -67,10 +67,10 @@
           <mxGeometry x="730" y="289.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="it_uPl6xz6jv3MHyXmth-42" value="&lt;font face=&quot;Times New Roman&quot;&gt;Person&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="730" y="319.5" width="60" height="30" as="geometry" />
+          <mxGeometry x="730" y="314.75" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="it_uPl6xz6jv3MHyXmth-43" value="&lt;font face=&quot;Times New Roman&quot;&gt;Person&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="740" y="329.5" width="60" height="30" as="geometry" />
+          <mxGeometry x="730" y="344.75" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
