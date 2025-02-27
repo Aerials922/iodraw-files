@@ -91,7 +91,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="it_uPl6xz6jv3MHyXmth-51" value="&lt;span style=&quot;font-size: 12pt; font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;Query: A man gets up from the bed and puts down the book&lt;/span&gt;&lt;span style=&quot;font-size: 12pt; font-family: &amp;quot;Times New Roman&amp;quot;; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; letter-spacing: 0pt; vertical-align: baseline;&quot;&gt;.&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;arcSize=5;" parent="1" vertex="1">
+        <mxCell id="it_uPl6xz6jv3MHyXmth-51" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Noto+Serif+Simplified+Chinese&quot;&gt;Query&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;: A man gets up from the bed and puts down the book&lt;/span&gt;&lt;span style=&quot;font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; letter-spacing: 0pt; vertical-align: baseline;&quot;&gt;.&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;arcSize=5;" parent="1" vertex="1">
           <mxGeometry x="120" y="590" width="220" height="80" as="geometry" />
         </mxCell>
         <mxCell id="lCflMypxCGrUxRLVNaSa-1" value="" style="group" vertex="1" connectable="0" parent="1">
