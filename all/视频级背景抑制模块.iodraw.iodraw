@@ -69,12 +69,11 @@
         <mxCell id="it_uPl6xz6jv3MHyXmth-45" value="Person&lt;br&gt;Window&lt;div&gt;Bed&lt;br&gt;Book&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;arcSize=5;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="720" y="379.26" width="60" height="80.5" as="geometry" />
         </mxCell>
-        <mxCell id="lCflMypxCGrUxRLVNaSa-8" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;curved=0;" edge="1" parent="1" source="it_uPl6xz6jv3MHyXmth-46" target="it_uPl6xz6jv3MHyXmth-47">
+        <mxCell id="lCflMypxCGrUxRLVNaSa-8" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=0;" edge="1" parent="1" source="it_uPl6xz6jv3MHyXmth-46" target="it_uPl6xz6jv3MHyXmth-47">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="810" y="509" />
               <mxPoint x="810" y="460" />
-              <mxPoint x="840" y="460" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -123,9 +122,6 @@
         </mxCell>
         <mxCell id="it_uPl6xz6jv3MHyXmth-48" value="" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=0;labelPosition=center;align=center;rotation=-90;fillColor=#fff2cc;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="890" y="430" width="100" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="lCflMypxCGrUxRLVNaSa-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="it_uPl6xz6jv3MHyXmth-47" target="it_uPl6xz6jv3MHyXmth-47">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
